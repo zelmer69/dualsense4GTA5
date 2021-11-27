@@ -18,8 +18,11 @@ extract mod files in your GTAV directory
 load game and enjoy
 Current features:
 
+
 adaptive triggers for different categores of weapons (pistols shutguns rifles etc)
+
 player led shows how many stars you got
+
 touchpad led starts flashing when you wanted or when you in police car 
 
 ALSO i creating a game about police join my discord server to get more info
