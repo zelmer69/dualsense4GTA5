@@ -14,7 +14,8 @@ download scrtipt hook dot net https://ru.gta5-mods.com/tools/scripthookv-net
 dwonload script hook v https://ru.gta5-mods.com/tools/script-hook-v
 download dualsensex app https://github.com/Paliverse/DualSenseX
 download this mod
-extract mod files in your GTAV directory
+extract mod files in GTA V/scripts
+Dualsensex should be open 
 load game and enjoy
 Current features:
 
@@ -24,6 +25,9 @@ adaptive triggers for different categores of weapons (pistols shutguns rifles et
 player led shows how many stars you got
 
 touchpad led starts flashing when you wanted or when you in police car 
+
+
+DO NOT USE IT IN ONLINE MAY CAUSE BAN
 
 ALSO i creating a game about police join my discord server to get more info
 https://discord.gg/Y9Xp8z6M4r
