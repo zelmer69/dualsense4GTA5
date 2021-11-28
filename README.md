@@ -18,7 +18,7 @@ extract mod files in GTA V/scripts
 Dualsensex should be open 
 load game and enjoy
 Current features:
-
+https://www.youtube.com/watch?v=AZ1bf_-gd_E
 
 adaptive triggers for different categores of weapons (pistols shutguns rifles etc)
 
