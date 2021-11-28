@@ -3,11 +3,14 @@ Beings adaptive trigger's in GTA5
 
 Hello everyone
 
+
 If you have dualsense without playstation(as me) you want to get more games with adaptive triggers support.
 
 This mod is made for dualsensex app
 
 HOW TO MAKE IT WORK?
+
+VIDEO https://youtu.be/AZ1bf_-gd_E
 
 first get dualsesne (i think you are here when you have adaptive triggers)
 download scrtipt hook dot net https://ru.gta5-mods.com/tools/scripthookv-net
@@ -18,7 +21,7 @@ extract mod files in GTA V/scripts
 Dualsensex should be open 
 load game and enjoy
 Current features:
-https://www.youtube.com/watch?v=AZ1bf_-gd_E
+
 
 adaptive triggers for different categores of weapons (pistols shutguns rifles etc)
 
