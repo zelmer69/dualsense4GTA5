@@ -16,7 +16,7 @@ first get dualsesne (i think you are here when you have adaptive triggers)
 download scrtipt hook dot net https://ru.gta5-mods.com/tools/scripthookv-net
 dwonload script hook v https://ru.gta5-mods.com/tools/script-hook-v
 download dualsensex app https://github.com/Paliverse/DualSenseX
-download this mod
+download this mod https://github.com/zelmer69/dualsense4GTA5/releases/tag/Dualsense
 extract mod files in GTA V/scripts
 Dualsensex should be open 
 load game and enjoy
