@@ -1,37 +1,40 @@
 # dualsense4GTA5
 Beings adaptive trigger's in GTA5
 
-Hello everyone
+Important information
+First thanks for downloading my mod
+Second let's set up mod in GTA
+For version 1.4 or above highly recommended steam version of dsx otherwise don't complain something not working from change list
+1.Set up dsx https://store.steampowered.com/app/1812620/DSX/
+a.Find UDP settings
+b.Turn it on
+2.Install requested mods:
+a.Script hook v.
+b.script hook.net (read description and install everything it's required)
+c.native UI
+3.Install mod
+a.Unpack archive
+b.Put(drag and drop or copy ) scripts folder into GTA v root
+4.Celebrate and enjoy
+
+Credits:
+Paliverse- author of dsx.
+abdulhaiyan- content creator, author of video tutorial.
 
 
-If you have dualsense without playstation(as me) you want to get more games with adaptive triggers support.
-
-This mod is made for dualsensex app
-
-HOW TO MAKE IT WORK?
-
-VIDEO https://youtu.be/AZ1bf_-gd_E
-
-first get dualsesne (i think you are here when you have adaptive triggers)
-download scrtipt hook dot net https://ru.gta5-mods.com/tools/scripthookv-net
-dwonload script hook v https://ru.gta5-mods.com/tools/script-hook-v
-download dualsensex app https://github.com/Paliverse/DualSenseX
-download this mod https://github.com/zelmer69/dualsense4GTA5/releases/tag/Dualsense
-extract mod files in GTA V/scripts
-Dualsensex should be open 
-load game and enjoy
 Current features:
-
 
 adaptive triggers for different categores of weapons (pistols shutguns rifles etc)
 
 player led shows how many stars you got
 
-touchpad led starts flashing when you wanted or when you in police car 
+touchpad led starts flashing when you wanted.
+
+Only some weapons have unique trigger's
+
+Menu with customizations
 
 
 DO NOT USE IT IN ONLINE MAY CAUSE BAN
 
-ALSO i creating a game about police join my discord server to get more info
-https://discord.gg/Y9Xp8z6M4r
-Also thanks to Paliverse he created the dualsensex
+ALSO i creating a game about police join my discord server to get more info https://discord.gg/Y9Xp8z6M4r Also thanks to Paliverse he created the dualsensex
