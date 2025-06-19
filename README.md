@@ -1,6 +1,6 @@
 # dualsense4GTA5
 Beings adaptive trigger's in GTA5
-
+****not longer supported may not work* 
 Important information
 First thanks for downloading my mod
 Second let's set up mod in GTA
